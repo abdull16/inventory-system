@@ -220,7 +220,7 @@ export default function Home() {
             <Box component="footer" sx={{ bgcolor: '#2c3e50', color: 'white', py: 2, mt: 'auto' }}>
                 <Container maxWidth="md">
                     <Typography variant="body1" align="center">
-                        &copy; 2024 Pantry Manager. All rights reserved.
+                        &copy; 2024 Pantry Manager Abdishakur Abdullahi.
                     </Typography>
                 </Container>
             </Box>
